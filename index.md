@@ -10,11 +10,11 @@ We will be using Python for all programming assignments and projects.
 The course is also listed as AC209, STAT121, and E-109. 
 
 #### Instructors
-* [Rafael Irizarry](rairizarry@gmail.com)
-* [Verna Kaynig-Fittkau](vkaynig@seas.harvard.edu)
+* Rafael Irizarry
+* Verena Kaynig-Fittkau
 
 #### Staff
-* [Stephanie Hicks](shicks@jimmy.harvard.edu)
+* Stephanie Hicks
 
 
 #### Lectures

@@ -3,11 +3,9 @@ layout: page
 title: Syllabus
 ---
 
-# CS109 Syllabus
+## CS109 Data Science
 
-## Fall 2013
- 
-**Professors**: Hanspeter Pfister (Computer Science), Joe Blitzstein (Statistics)
+**Instructors**: Rafael Irizarry, Verena Kaynig-Fittkau
 
 Welcome to CS109! The course is also listed as STAT121 and AC209, and offered through the Harvard University Extension School as distance education course CSCI E-109. All lectures and labs will be recorded and the videos will be archived and streamed live during meeting times.
 The requirements for these four labelings of the course are the same, except that for students registered for AC209, since they will be receiving graduate-level credit, homeworks and the final project will be held to a higher standard and there may be additional readings.
@@ -46,19 +44,9 @@ After successful completion of this course, you will be able to?
  
 The prerequisite for this class is programming knowledge at the level of CS 50 (or above), and statistics knowledge at the level of Stat 100 (or above). Both undergraduates and graduate students are welcome to take the course.
  
-**What is the structure of the class?**
+ **What is the structure of this class?**
  
-There will be three major modules, each focusing on an important arena in which data science is playing a crucial role. Within each module, we will study how to gather, explore, and analyze relevant data, as well as how to communicate the results. The major programming language used will be Python.
- 
-For each module, there will be two problem sets, in which students will learn about learning from data actively ? by doing it! There will also be a major final project, in which students can explore data they are excited about in a more open-ended setting.
- 
-The three modules are as follows:
- 
-1. Prediction and elections module: how did Nate Silver predict 50 out of 50 states correctly in the 2012 U.S. presidential election, and 49 out of 50 correctly in the 2008 election? How much of that was luck? We will discuss how to find, process, combine, visualize, simulate, and summarize election-related data and questions, especially if there are conflicting polls with different reliabilities.
- 
-2. Recommendation and business analytics module: the Neflix Prize was a famous recent example of collaborative filtering: given information about which movies various users have liked and disliked, how should Netflix make recommendations for what movies a user should watch? Many other companies are interested in closely-related problems. Often there is a very large but very sparse data set (e.g., there could be millions of users and tens of thousands of movies, but very few users rate more than a few hundred movies). We will explore techniques for working with such data.
- 
-3. Sampling and social network analysis module: social, biological, and technological networks are attracting interest from many fields. They are examples of relational data, in which there are measurements on pairs of individuals, not just on individuals. But computation and visualization for a network with more than, say, 50 nodes (individuals) presents many challenges in scalability and interpretability. We will study techniques for drawing a sample from a network, for analyzing network data (e.g., finding ?communities? and ?influential? nodes in the network), and for visualizing network data.
+The class will consist of labs and lectures including class puzzles and interactive in class examples.  
 
 ## Course Logistics
 
@@ -100,7 +88,7 @@ You will work closely with other classmates in a 3-4 person project team. You ca
 
 #### Homework
 
-The homework is going to provide an opportunity to learn data science skills and to test your understanding of the material. See the homework as an opportunity to learn, and not to ?earn points?. The homework will also be graded to reflect this objective.
+The homework is going to provide an opportunity to learn data science skills and to test your understanding of the material. See the homework as an opportunity to learn, and not to earn points. The homework will also be graded to reflect this objective.
 
 #### Reading Assignments
 
