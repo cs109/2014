@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: CS109 Projects
 ---
 
 Coming soon. 
