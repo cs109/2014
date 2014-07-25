@@ -1,14 +1,3 @@
-\begin{table}[htdp]
-\caption{default}
-\begin{center}
-\begin{tabular}{|c|c|}
-
-\end{tabular}
-\end{center}
-\label{default}
-\end{table}%
-
-
 ---
 layout: page
 title: CS109 Data Science Syllabus
@@ -75,7 +64,7 @@ None. Instead, we have a list of recommended readings on the web site.
 
 #### Online Discussion Forum
 
-We'll be using [Piazza](www.piazza.com) as our online forum. You can register [here](https://piazza.com/harvard/fall2014/cs109) for the Fall 2014 course. Piazza is your main venue to ask questions, discuss problems, and help each other out. Piazza is a question-and-answer system designed to streamline class discussion outside of the classroom. It should always be your first recourse for seeking answers to your questions about the course, lecture or reading material, or the assignments. Piazza supports $\LaTeX$, code formatting, embedding of images, and attaching of files. We will also use Piazza for all announcements, so it is important that you are signed up. 
+We'll be using [Piazza](www.piazza.com) as our online forum. You can register [here](https://piazza.com/harvard/fall2014/cs109) for the Fall 2014 course. Piazza is your main venue to ask questions, discuss problems, and help each other out. Piazza is a question-and-answer system designed to streamline class discussion outside of the classroom. It should always be your first recourse for seeking answers to your questions about the course, lecture or reading material, or the assignments. Piazza supports LaTeX code formatting, embedding of images, and attaching of files. We will also use Piazza for all announcements, so it is important that you are signed up. 
 
 #### Online Videos
 
