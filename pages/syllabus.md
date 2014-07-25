@@ -106,7 +106,7 @@ Your final grade will be determined by the number of points you collect. You can
 
 - **Homework**: 60%, assessed on your individual submission.
 - **Midterm Project**: 20%, assessed on your individual submission.
-- ** Final Project**: 20%, assessed on meeting the project criteria.
+- **Final Project**: 20%, assessed on meeting the project criteria.
 - **Best Projects**: We will elect the top three project submissions that will get extra points.
 
 Homework, quizzes and project will be graded on a 10 point scale in increments of 1 using the following scale:
