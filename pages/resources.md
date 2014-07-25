@@ -13,7 +13,7 @@ Here are some resources you might find helpful. Please post your own recommendat
 * [Learn Python the Hard Way](http://learnpythonthehardway.org)
 * [Learn Python (interactive)](http://www.learnpython.org)
 * [Google's Python Class](https://developers.google.com/edu/python/?csw=1)
-* [The Python Tutorial[(https://docs.python.org/2/tutorial/)
+* [The Python Tutorial](https://docs.python.org/2/tutorial/)
 * [IPython](http://ipython.org)
 * [The Python Package Index](https://pypi.python.org/pypi)
 * [SciPy](http://www.scipy.org)

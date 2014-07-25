@@ -1,6 +1,17 @@
+\begin{table}[htdp]
+\caption{default}
+\begin{center}
+\begin{tabular}{|c|c|}
+
+\end{tabular}
+\end{center}
+\label{default}
+\end{table}%
+
+
 ---
 layout: page
-title: CS109 Data SCience Syllabus
+title: CS109 Data Science Syllabus
 ---
 
 ## CS109 Data Science
@@ -10,8 +21,8 @@ The requirements for these four labelings of the course are the same, except tha
 
 #### Instructors:
 
-Rafael Irizarry, Biostatistics 
-Verena Kaynig-Fittkau, Computer Science
+* Rafael Irizarry, Biostatistics 
+* Verena Kaynig-Fittkau, Computer Science
 
 #### What is this class about?
  
@@ -82,7 +93,7 @@ The class meets twice a week for lectures and joint class activities. The class 
 
 #### Labs
 
-Lectures are supplemented by weekly 60- to 90-minute labs led by the teaching fellows or guest lecturers. Labs are an important aspect of the course, as we will supplement material from lectures with examples, discuss programming environments (e.g., iPython), and teach you important skills (e.g., linear regression). Lab topics are announced in the schedule.
+Lectures are supplemented by labs led by the teaching fellows or guest lecturers. The labs are meant to supplement material from lectures with examples and discuss programming environments (e.g., iPython). 
 
 #### Project
 
@@ -104,23 +115,28 @@ The course schedule includes required readings. The goal of the reading assignme
 
 Your final grade will be determined by the number of points you collect. You can collect various amounts of points for the different parts of the class:
 
-- **Project**: 50%, assessed on meeting the project criteria.
-- **Homework**: 40%, assessed on your individual submission.
-- **Participation**: 10% assessed on participation on Piazza and lecture and lab attendance.
+- **Homework**: 60%, assessed on your individual submission.
+- **Midterm Project**: 20%, assessed on your individual submission.
+- ** Final Project**: 20%, assessed on meeting the project criteria.
 - **Best Projects**: We will elect the top three project submissions that will get extra points.
 
-Homework, project, and participation will be graded on a 5 point scale in 0.5 increments using the following scale:
+Homework, quizzes and project will be graded on a 10 point scale in increments of 1 using the following scale:
 
 Points | Description
 --- | --- 
-5 | Exceptional / above and beyond (we will only give out these for best projects)
-4  | Solid / no mistakes (or really minor)
-3 | Good / some mistakes
-2 | Fair / some major conceptual errors
-1 | Poor / did not finish
+10 | Exceptional / above and beyond (we will only give out these for best projects)
+9 | 
+8  | Solid / no mistakes (or really minor)
+7 | 
+6 | Good / some mistakes
+5 | 
+4 | Fair / some major conceptual errors
+3 | 
+2 | Poor / did not finish
+1 | 
 0 | Did not participate / did not hand in
 
-A 4 constitutes a perfect grade, and getting all 4s is equivalent to an A. A combination of 4s and 3s end up being A- to B, and so on. Teaching Fellows will evaluate your work holistically beyond mechanical correctness and focus on the overall quality of the work. In addition to the scores the Teaching Fellows will give detailed written feedback.
+Scores >8 constitutes a perfect grade, and getting all >8s is equivalent to an A. Scores in the range of 6-8 and up being A- to B, and so on. Teaching Fellows will evaluate your work holistically beyond mechanical correctness and focus on the overall quality of the work. In addition to the scores the Teaching Fellows will give detailed written feedback.
 
 #### Project Group Peer Assessment
 
@@ -128,7 +144,7 @@ In the professional world, three important features affect your productivity and
 
 #### Collaboration Policy
 
-You are welcome to discuss the course's ideas, material, and homework with others in order to better understand it, but **the work you turn in must be your own** (or for the project, yours and your teammates). For example, you must write your own code, run your own data analyses, and communicate and explain the results in your own words and with your own visualizations. You may not submit the same or similar work to this course that you have submitted or will submit to another. Nor may you provide or make available solutions to homeworks to individuals who take or may take this course in the future. During the course of the semester, you will complete a number of questionnaires online. The purpose of these questionnaires is to evaluate how well this course works for you. Your answers will only be used to provide feedback on your learning and make adjustments to the course. They will not affect your grade in any way. Unless stated otherwise, you may neither look up any information, nor consult others during these questionnaires.
+You are welcome to discuss the course's ideas, material, and homework with others in order to better understand it, but **the work you turn in must be your own** (or for the project, yours and your teammates). For example, you must write your own code, run your own data analyses, and communicate and explain the results in your own words and with your own visualizations. You may not submit the same or similar work to this course that you have submitted or will submit to another. Nor may you provide or make available solutions to homework to individuals who take or may take this course in the future. During the course of the semester, you will complete a number of questionnaires online. The purpose of these questionnaires is to evaluate how well this course works for you. Your answers will only be used to provide feedback on your learning and make adjustments to the course. They will not affect your grade in any way. Unless stated otherwise, you may neither look up any information, nor consult others during these questionnaires.
 
 #### Quoting Sources
 
@@ -142,7 +158,7 @@ Projects and homework **must** be turned in on time, with the exception of late 
 
 #### Homework Deadlines and Late Days
 
-In the weeks when homeworks are due, they will be due on Thursdays at 11:59 pm, unless otherwise announced. Each student is given **six late days** for homework at the beginning of the semester. A late day extends the individual homework deadline by 24 hours without penalty. **No more than two late days may be used on any one assignment. Assignments handed in more than 48 hours after the original deadline will not be graded.** If you have already used all of your late days for the semester, we will deduct 1 point for assignments <24 hours late, and 2 points for assignments 24-48 hours late. We do not accept any homeworks under any circumstances more than 48 hours after the original deadline. Late days are intended to give you flexibility: you can use them for any reason  no questions asked. You don't get any bonus points for not using your late days. Also, you can only use late days for the individual homework deadlines  all other deadlines (e.g., project milestones) are hard.
+In the weeks when homework is due, it will be due on Thursdays at 11:59 pm, unless otherwise announced. Each student is given **six late days** for homework at the beginning of the semester. A late day extends the individual homework deadline by 24 hours without penalty. **No more than two late days may be used on any one assignment. Assignments handed in more than 48 hours after the original deadline will not be graded.** If you have already used all of your late days for the semester, we will deduct 2 points for assignments <24 hours late, and 4 points for assignments 24-48 hours late. We do not accept any homework under any circumstances more than 48 hours after the original deadline. Late days are intended to give you flexibility: you can use them for any reason  no questions asked. You don't get any bonus points for not using your late days. Also, you can only use late days for the individual homework deadlines  all other deadlines (e.g., project milestones) are hard.
 
 #### Regrading Policy
 
