@@ -105,7 +105,7 @@ The course schedule includes required readings. The goal of the reading assignme
 Your final grade will be determined by the number of points you collect. You can collect various amounts of points for the different parts of the class:
 
 - **Homework**: 60%, assessed on your individual submission.
-- **Midway Assesment of Final Project**: 20%, assessed on your individual submission.
+- **Midway Assessment of Final Project**: 20%, assessed on your individual submission.
 - **Final Project**: 20%, assessed on meeting the project criteria.
 - **Best Projects**: We will elect the top three project submissions that will get extra points.
 
