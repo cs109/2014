@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: frontpage
 title: CS109 Homework
 ---
 
