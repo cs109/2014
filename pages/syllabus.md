@@ -68,7 +68,7 @@ We'll be using [Piazza](www.piazza.com) as our online forum. You can register [h
 
 #### Online Videos
 
-All lectures and labs will be broadcast live via Adobe Connect, including live video from the classroom, a synchronized view of the projected slides, and a chat window to ask questions and to contact fellow online students. In case the Adobe Connect server fails, you can also connect to an alternate live video feed. Both features will only work during class time. The archived videos of the lectures and labs are available about 24 hours after meeting time from the course homepage.
+All [lectures will be posted online](http://cm.dce.harvard.edu/2015/01/14328/publicationListing.shtml) and should be available 24 hours after meeting time.
 
 #### Office Hours
 
