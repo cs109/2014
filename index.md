@@ -19,16 +19,44 @@ The course is also listed as AC209, STAT121, and E-109.
 
 #### Staff
 
-* Stephanie Hicks
+* Stephanie Hicks, Head TF
+* Mingxiang Teng
+* Michael Packer
+* Marcus Way
+* Michael Lackner
+* Amy Mir
+* Tarik Adnan Moon
+* Olivia Angiuli
+* Yang Li
+* Huihui Fan
+* Antonia Oprescu
+* Claudio Rosenberg
+* Tudor Giurgica-Tiron
+* Zhijie Zhou
+* Nural Zaman
+* Brian Feeny
+* Joy Ming
+* Rick Lee
+* Felix Gonda
+* Korey Tucker
+* Lane Erickson
+* Diana Miao
+* Logan Kerr
+* Stephen Klosterman
 
 
-#### Lectures
 
-2:30-4pm on Tuesdays & Thursdays
+#### Lectures and Labs
 
-#### Labs
+* Lectures are 2:30-4pm on Tuesdays & Thursdays in Northwest B103
+* Labs are 10am-12pm on Fridays, Room TBA
 
-10am-12pm on Fridays
+#### Material from CS 109 taught in Fall 2013
+
+* [Videos](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml)
+* [Slides](https://drive.google.com/folderview?id=0BxYkKyLxfsNVd0xicUVDS1dIS0k&usp=sharing)
+* [Homework, labs and solutions](https://github.com/cs109/content)
+
 
 
 

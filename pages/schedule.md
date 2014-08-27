@@ -3,6 +3,8 @@ layout: page
 title: Schedule
 ---
 
-The schedule for CS109 in Fall 2014 is coming soon. 
+A tentative syllabus for the topics covered in CS109 Fall 2014 will be posted here. 
 
-For a general idea on the topics covered in this course, see the CS109 schedule from Fall 2013 [here](http://cs109.org/schedule.php). 
+ | Tuesday | Thursday
+--- | --- | ---
+Week 1 (9/1-9/7) | Introduction. What is data science? Why is it important? Who are we? Course overview. | Data Sources, Web Scraping and Data Cleanup
