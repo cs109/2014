@@ -86,7 +86,7 @@ Lectures are supplemented by labs led by the teaching fellows or guest lecturers
 
 #### Project
 
-Towards the end of the course you will work on a month-long data science project. The goal of the project is to go through the complete data science process to answer questions you have about some topic of your own choosing. You will acquire the data, design your visualizations, run statistical analysis, and communicate the results.
+Towards the middle of the course you will start to work on a data science project. The goal of the project is to go through the complete data science process to answer questions you have about some topic of your own choosing. You will acquire the data, design your visualizations, run statistical analysis, and communicate the results. Part of this project will be assessed midway through the course and then the rest of it will be assessed at the end of the course. 
 
 You will work closely with other classmates in a **3-4 person project team**. You can come up with your own teams and use Piazza to find prospective team members. If you cant find a partner we will team you up randomly. We recognize that individual schedules, different time zones, preferences, and other constraints might limit your ability to work in a team. If this the case, ask us for permission to work alone.
 
@@ -104,8 +104,8 @@ The course schedule includes required readings. The goal of the reading assignme
 
 Your final grade will be determined by the number of points you collect. You can collect various amounts of points for the different parts of the class:
 
-- **Homework**: 60%, assessed on your individual submission.
-- **Final Project Part I**: 20%, assessed on your individual submission.
+- **Homework**: 70%, assessed on your individual submission.
+- **Final Project Part I**: 10%, assessed on your individual submission.
 - **Final Project Part II**: 20%, assessed on meeting the project criteria.
 - **Best Projects**: We will elect the top three project submissions that will get extra points.
 
@@ -170,3 +170,4 @@ Some of the material in this course is based on other classes. We have also heav
 #### User Notice for Copyrighted Materials on Course Websites
 
 This course website, and much of the text, images, graphics, audio and video clips, and other content of the site (collectively, the "Content"), are protected by copyright law. In some cases, the copyright is owned by third parties, and Harvard is making the third-party Content available to you under the fair use doctrine. Fair use permits only certain limited uses of the Content. You may use the website and its Content only for your personal, noncommercial educational and scholarly use. Some Content may be provided via streaming or other means that restrict copying; you may not circumvent those restrictions. If you wish to distribute or make any of the Content available to others, or to use any Content commercially, or to use any Content for any purpose other than your personal, noncommercial educational and scholarly use, you must obtain any required permission from the copyright holder. User notice courtesy of the Harvard University Office of General Counsel.
+
