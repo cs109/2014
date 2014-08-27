@@ -56,7 +56,3 @@ The course is also listed as AC209, STAT121, and E-109.
 * [Videos](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml)
 * [Slides](https://drive.google.com/folderview?id=0BxYkKyLxfsNVd0xicUVDS1dIS0k&usp=sharing)
 * [Homework, labs and solutions](https://github.com/cs109/content)
-
-
-
-
