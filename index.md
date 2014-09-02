@@ -11,6 +11,17 @@ We will be using Python for all programming assignments and projects. All [lectu
 
 The course is also listed as AC209, STAT121, and E-109. 
 
+#### Important Links
+
+* [Videos](http://cm.dce.harvard.edu/2015/01/14328/publicationListing.shtml)
+
+* [Blackboard](https://sas.elluminate.com/m.jnlp?password=M.AEB005C4D637F475BB1EB5514A390C&sid=2007009)
+
+
+#### Lectures and Labs
+
+* Lectures are 2:30-4pm on Tuesdays & Thursdays in Northwest B103
+* Labs are 10am-12pm on Fridays, Room TBA
 
 #### Instructors
 
@@ -44,12 +55,6 @@ The course is also listed as AC209, STAT121, and E-109.
 * Logan Kerr
 * Stephen Klosterman
 
-
-
-#### Lectures and Labs
-
-* Lectures are 2:30-4pm on Tuesdays & Thursdays in Northwest B103
-* Labs are 10am-12pm on Fridays, Room TBA
 
 #### Material from CS 109 taught in Fall 2013
 
