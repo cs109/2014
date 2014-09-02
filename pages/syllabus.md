@@ -104,9 +104,9 @@ The course schedule includes required readings. The goal of the reading assignme
 
 Your final grade will be determined by the number of points you collect. You can collect various amounts of points for the different parts of the class:
 
-- **Homework**: 70%, assessed on your individual submission.
+- **Homework**: 65%, assessed on your individual submission.
 - **Final Project Part I**: 10%, assessed on your individual submission.
-- **Final Project Part II**: 20%, assessed on meeting the project criteria.
+- **Final Project Part II**: 25%, assessed on meeting the project criteria.
 - **Best Projects**: We will elect the top three project submissions that will get extra points.
 
 Homework, quizzes and project will be graded on a 10 point scale in increments of 1 using the following scale:
