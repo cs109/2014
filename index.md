@@ -17,6 +17,8 @@ The course is also listed as AC209, STAT121, and E-109.
 
 * [Blackboard](https://sas.elluminate.com/m.jnlp?password=M.AEB005C4D637F475BB1EB5514A390C&sid=2007009)
 
+* [Lecture slides](https://drive.google.com/?tab=wo&authuser=0#folders/0B7IVstmtIvlHbnFKbDlmdFFyU2s)
+
 
 #### Lectures and Labs
 
