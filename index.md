@@ -28,6 +28,11 @@ The course is also listed as AC209, STAT121, and E-109.
 * Rafael Irizarry, Biostatistics
 * Verena Kaynig-Fittkau, Computer Science
 
+#### Guest Lecturer
+
+* Marc Streit
+
+
 #### Staff
 
 * Stephanie Hicks, Head TF
