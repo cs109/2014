@@ -25,7 +25,7 @@ The course is also listed as AC209, STAT121, and E-109.
 #### Lectures and Labs
 
 * Lectures are 2:30-4pm on Tuesdays & Thursdays in Northwest B103
-* Labs are 10am-12pm on Fridays, Room TBA
+* Labs are 10am-12pm on Fridays, Room: [Geological Museum 100](http://map.harvard.edu/?bld=04240&level=9)
 
 #### Instructors
 
