@@ -19,6 +19,8 @@ The course is also listed as AC209, STAT121, and E-109.
 
 * [Lecture slides](https://drive.google.com/?tab=wo&authuser=0#folders/0B7IVstmtIvlHbnFKbDlmdFFyU2s)
 
+* Staff mailinig list: staff@cs109.org
+
 
 #### Lectures and Labs
 
