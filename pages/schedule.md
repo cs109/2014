@@ -7,7 +7,7 @@ This is a **tentative** schedule for the topics covered in CS109 Fall 2014, so t
 
 --- | Tuesday | Thursday
 --- | --- | --- 
-Week 1 (9/1-9/7) | Introduction. What is data science? Why is it important? Who are we? Course overview. [Lecture 1](https://docs.google.com/file/d/0B-Acgy0j0KEHclFFVV9pXy1UaXM/edit). **HW0 Assigned**.  | Data Sources, Web Scraping and Data Cleanup. [Lecture 2a](lectures/02-distributions.html). [Lecture 2b](http://nbviewer.ipython.org/github/cs109/2014/blob/master/lectures/Lecture02_readTable_plot.ipynb). 
+Week 1 (9/1-9/7) | Introduction. What is data science? Why is it important? Who are we? Course overview. [Lecture 1](https://docs.google.com/file/d/0B-Acgy0j0KEHclFFVV9pXy1UaXM/edit). **HW0 Assigned**.  | Statistical Summaries and Exploratory Data Analysis [Lecture 2a](lectures/02-distributions.html). IPython Notebooks [Lecture 2b](http://nbviewer.ipython.org/github/cs109/2014/blob/master/lectures/Lecture02_readTable_plot.ipynb). 
 Week 2 (9/8-9/14) | Visualization Goals, Data Types, Statistical Graphs. [Lecture 3](https://docs.google.com/file/d/0B7IVstmtIvlHLTdTbXdEVENoRzQ/edit). **HW1 Assigned**. | Design Principles, Color, Effective vs. Non Effective Visual Attributes. 
 Week 3 (9/15-9/21) | What can we do with multi-dimensional data? | Interaction, Visualizing Sets and Maps, Big Data Visualization. **HW1 Due**.
 Week 4 (9/22-9/28) | Advanced Data Wrangling. **HW2 Assigned**. | Probability review, Normal distributions, Central Limit Theorem, Statistical Inference. 
