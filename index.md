@@ -11,8 +11,6 @@ We will be using Python for all programming assignments and projects. All [lectu
 
 The course is also listed as AC209, STAT121, and E-109. 
 
-**Note**: Office hours will be posted by this weekend (9/13/2014).
-
 #### Important Links
 
 * [Lecture videos](http://cm.dce.harvard.edu/2015/01/14328/publicationListing.shtml)
@@ -22,6 +20,8 @@ The course is also listed as AC209, STAT121, and E-109.
 * Lecture slides available on [Schedule](pages/schedule.html)
 
 * Staff mailing list: staff@cs109.org
+
+* Office hours can be found on [Piazza](https://piazza.com/harvard/fall2014/cs109/staff) or this [Google Calendar](https://www.google.com/calendar/embed?src=YXJmYjMyOG1hcW9nZXVyaTNnZzQ1dnFsc2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). 
 
 
 #### Lectures and Labs
