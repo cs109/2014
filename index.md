@@ -23,6 +23,8 @@ The course is also listed as AC209, STAT121, and E-109.
 
 * Office hours can be found on [Piazza](https://piazza.com/harvard/fall2014/cs109/staff) or this [Google Calendar](https://www.google.com/calendar/embed?src=YXJmYjMyOG1hcW9nZXVyaTNnZzQ1dnFsc2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). 
 
+* Links to the GitHub repositories: [CS109 2014 course material](https://github.com/cs109/2014) and [CS 109 2014 data](https://github.com/cs109/2014_data)
+
 
 #### Lectures and Labs
 
