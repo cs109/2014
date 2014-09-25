@@ -113,19 +113,19 @@ Homework, quizzes and project will be graded on a 10 point scale in increments o
 
 Points | Description
 --- | --- 
-10 | Exceptional / above and beyond (we will only give out these for best projects)
+10 | Exceptional / no mistakes
 9 | 
-8  | Solid / no mistakes (or really minor)
+8  | Good /  minor mistakes
 7 | 
-6 | Good / some mistakes
+6 | OK / some mistakes
 5 | 
-4 | Fair / some major conceptual errors
+4 | Not good / many mistakes
 3 | 
-2 | Poor / did not finish
+2 | Very bad / major errors
 1 | 
 0 | Did not participate / did not hand in
 
-Scores >8 constitutes a perfect grade, and getting all >8s is equivalent to an A. Scores in the range of 6-8 and up being A- to B, and so on. Teaching Fellows will evaluate your work holistically beyond mechanical correctness and focus on the overall quality of the work. In addition to the scores the Teaching Fellows will give detailed written feedback.
+Scores >8 is equivalent to an A. Teaching Fellows will evaluate your work for mechanical correctness and holistically to assign an overall score of the assignment. In addition to the scores the Teaching Fellows will give written feedback for each problem. 
 
 #### Project Group Peer Assessment
 
