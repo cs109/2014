@@ -67,6 +67,7 @@ The course is also listed as AC209, STAT121, and E-109.
 * Diana Miao
 * Logan Kerr
 * Stephen Klosterman
+* Jacob Dorabialski
 
 
 #### Material from CS 109 taught in Fall 2013
