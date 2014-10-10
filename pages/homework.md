@@ -33,3 +33,4 @@ To submit your homework, create a folder named **lastname_firstinitial_hw#** and
 * [Lab 3](http://nbviewer.ipython.org/github/cs109/2014/blob/master/labs/Lab3_Notes.ipynb)
 * [Lab 4](http://nbviewer.ipython.org/github/cs109/2014/blob/master/labs/Lab4_Notes.ipynb)
 * [Lab 5](http://nbviewer.ipython.org/github/cs109/2014/blob/master/labs/Lab5_Notes.ipynb)
+* [Lab 6](http://nbviewer.ipython.org/github/cs109/2014/blob/master/labs/Lab6_Notes.ipynb)
