@@ -14,13 +14,13 @@ Week 4 (9/22-9/28) | Data scraping [Lecture 7](http://nbviewer.ipython.org/githu
 Week 5 (9/29-10/5) | Statistical modeling, Variance and Smoothing with Election Polls [Lecture 9](http://nbviewer.ipython.org/github/cs109/2014/blob/master/lectures/2014_09_30-lecture/Lecture-Variance-Polls.ipynb). | Regression and Prediction [Lecture 10](http://nbviewer.ipython.org/github/cs109/2014/blob/master/lectures/2014_10_02-lecture/Lecture-Regression-Prediction.ipynb). **HW2 Due**.
 Week 6 (10/6-10/12) | Introduction to Machine Learning [Lecture 11](http://nbviewer.ipython.org/github/cs109/2014/blob/master/lectures/lecture11/Lecture11_Introduction_to_classification.ipynb). **HW3 Assigned**. |  Confounding. [Lecture 12 slides](lectures/lecture12-confounding.html). [Lecture 12 notebook](http://nbviewer.ipython.org/github/cs109/2014/blob/master/lectures/2014_10_09-lecture/Lecture12-Confounding.ipynb). 
 Week 7 (10/13-10/19) | Matrix Algebra [Lecture 13](lectures/lecture13-matrix-algebra.html). | Bayesian Statistics [Lecture 14](lectures/lecture14-bayesian-statistics.html). **HW3 Due**. 
-Week 8 (10/20-10/26) | High-dimensional data, Parallel Coordinates, Glyphs, Dimensionality Reduction, SVD. **HW4 Assigned**. | TBA 
-Week 9 (10/27-11/2) | Basic machine learning: SVM, kernel trick. Grid search, multi-class, decision trees | Bagging, Boosting, Random forests. **HW4 Due**.
-Week 10 (11/3-11/9) | Deep learning: Neural networks. **HW5 Assigned**. | Network visualizations, Node-link graphs, Matrix Views, Gephi .
-Week 11 (11/10-11/16) | Bayesian thinking and methods, Prior distributions, Likelihoods. | Empirical Bayes, Shrinkage. **HW5 Due**.
-Week 12 (11/17-11/23) | Amazon EC2, AWS Datastore, MapReduce, Mr Job. | Advanced Mr Job.
- Week 13 (11/24-11/30) | TBA | *No class*. Thanksgiving 
-Week 14 (12/1-12/7) | TBA | *No class*. Fall Reading Period
+Week 8 (10/20-10/26) | Decision Trees, ensemble learning [Lecture 15 slides and notebook](https://drive.google.com/?tab=wo&authuser=0#folders/0B7IVstmtIvlHbnFKbDlmdFFyU2s). **HW4 Assigned**. | Ensemble learning, performance evaluation. 
+Week 9 (10/27-11/2) | Support vector machine and the kernel trick. | Clustering methods: k-means, mean-shift. **HW4 Due**.
+Week 10 (11/3-11/9) | Mr job and map reduce. **HW5 Assigned**. | Visual story telling.
+Week 11 (11/10-11/16) | Deep learning | Wrap up and outlook. **HW5 Due**.
+Week 12 (11/17-11/23) | Final project review | Final project review.
+ Week 13 (11/24-11/30) | *No class*. Thanksgiving | *No class*. Thanksgiving 
+Week 14 (12/1-12/7) | *No class*. Fall Reading Period| *No class*. Fall Reading Period
 Week 15 (12/8-12/14) | *No class*. Fall Reading Period | *No class*. Finals Period 
 Week 16 (12/15-12/21) | Final project presentations | Final project presentations 
 
