@@ -8,7 +8,7 @@ For your final assignment in this course you will work on a month-long data scie
 
 #### Project Team
 
-You will work closely with other classmates in a ** team** on this project. You can come up with your own teams and use Piazza to find prospective team members. If you can't find a partner we will team you up randomly. We recognize that individual schedules, different time zones, preferences, and other constraints might limit your ability to work in a team. If this the case, ask us for permission to work alone. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
+You will work closely with other classmates in a **team** on this project. You can come up with your own teams and use Piazza to find prospective team members. If you can't find a partner we will team you up randomly. We recognize that individual schedules, different time zones, preferences, and other constraints might limit your ability to work in a team. If this the case, ask us for permission to work alone. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
 
 #### Project Milestones 
 There are a few milestones for your final project. It is critical to note that **no extensions will be given** for any of the project due dates for any reason. Late days may not be used. Projects submitted after the final due date will not be graded. If you anticipate any issues (e.g., due to business travel) you need to send an email to the staff mailing list at least one week in advance.
