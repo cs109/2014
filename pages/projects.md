@@ -79,5 +79,10 @@ To submit your projects, create a folder named **lastname_firstinitial_project**
 
 ## Grading
 
-80% of the grade will be based on your iPython process book. This includes the quality of your data analysis and Python code, the complexity and level of difficulty of your project, completeness and overall functionality of your analysis. The remaining 20% of your grade will be based on your web site and screencast and the quality of their storytelling aspects. Your individual project score will also be determined by your peer evaluations. 
+As stated in the [syllabus](http://cs109.github.io/2014/pages/syllabus.html), the final project is graded in two parts: 
+
+1. Final Project Part I worth 10% of total grade in CS 109.  This portion represents the Project Proposal which is due Nov 17. 
+2. Final Project Part II: worth 25% of total grade in CS 109.  This portion will be split into two sub-portions: 
+		- 80% of the Final Project Part II will be based on your iPython process book. This includes the quality of your data analysis and Python code, the complexity and level of difficulty of your project, completeness and overall functionality of your analysis.
+		- 20% of the Final Project Part II will be based on your web site and screencast and the quality of their storytelling aspects. Your individual project score will also be determined by your peer evaluations. 
 
