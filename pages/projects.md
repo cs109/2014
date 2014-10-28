@@ -83,6 +83,7 @@ As stated in the [syllabus](http://cs109.github.io/2014/pages/syllabus.html), th
 
 1. Final Project Part I (worth 10% of total grade in CS 109).  This portion represents the Project Proposal which is due Nov 17. 
 2. Final Project Part II (worth 25% of total grade in CS 109).  This portion will be split into two sub-portions: 
-	a. 80% of the Final Project Part II will be based on your iPython process book. This includes the quality of your data analysis and Python code, the complexity and level of difficulty of your project, completeness and overall functionality of your analysis.
-	b. 20% of the Final Project Part II will be based on your web site and screencast and the quality of their storytelling aspects. Your individual project score will also be determined by your peer evaluations. 
+
+* 80% of the Final Project Part II will be based on your iPython process book. This includes the quality of your data analysis and Python code, the complexity and level of difficulty of your project, completeness and overall functionality of your analysis.
+* 20% of the Final Project Part II will be based on your web site and screencast and the quality of their storytelling aspects. Your individual project score will also be determined by your peer evaluations. 
 
