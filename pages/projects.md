@@ -18,7 +18,7 @@ Date | Description
 Tuesday, October 23 | Team Registration due
 Monday, November 17 | Project proposals due
 Week of November 17-21 | Project review meeting with your TF
-Wednesday, December 10 | Projects due
+Wednesday, December 10 | IPython Process book due
 Friday, December 12 | Project webpage and 2 minute screencast due
 Tuesday, December 16 | Project presentations and best project prizes
 
