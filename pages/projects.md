@@ -32,7 +32,7 @@ You start by filling out this [google form to define your teams and a tentative 
 
 #### Proposal
 
-Next, your team will submit this project proposal form (link coming soon) by November 17, 2014. **Each team will only need to submit one form**. Based on your proposals we will assign a TF to your team who will guide you through the rest of the project. You will schedule a project review meeting with your TF during regular lecture times of the week marked in the schedule. Make sure all of your team members are present at the meeting. Online students can schedule a Skype meeting with their TF. 
+Next, your team will submit this [project proposal form](https://docs.google.com/forms/d/1tMzR0WYrWJjb9o0MQMWYCbq_asuyeRD3z7ZaMLaWqzc/viewform?usp=send_form) by November 17, 2014. **Each team will only need to submit one form**. Based on your proposals we will assign a TF to your team who will guide you through the rest of the project. You will schedule a project review meeting with your TF during regular lecture times of the week marked in the schedule. Make sure all of your team members are present at the meeting. Online students can schedule a Skype meeting with their TF. 
 
 #### iPython Process Book
 
