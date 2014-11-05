@@ -16,7 +16,7 @@ Week 6 (10/6-10/12) | Introduction to Machine Learning [Lecture 11](http://nbvie
 Week 7 (10/13-10/19) | Matrix Algebra [Lecture 13 slides](lectures/lecture13-matrix-algebra.html). [Lecture 13 notebook](http://nbviewer.ipython.org/github/cs109/2014/blob/master/lectures/2014_10_14-lecture/Lecture13-Matrix-Algebra.ipynb).  | Bayesian Statistics [Lecture 14 slides](lectures/lecture14-bayesian-statistics.html). [Lecture 14 notebook](http://nbviewer.ipython.org/github/cs109/2014/blob/master/lectures/2014_10_16-lecture/Lecture14-Bayesian-Statistics.ipynb). **HW3 Due**. 
 Week 8 (10/20-10/26) | Decision Trees, ensemble learning [Lecture 15 slides and notebook](https://drive.google.com/?tab=wo&authuser=0#folders/0B7IVstmtIvlHbnFKbDlmdFFyU2s). **HW4 Assigned**. | Ensemble learning, performance evaluation [Lecture 16](https://drive.google.com/?authuser=0#folders/0B7IVstmtIvlHbnFKbDlmdFFyU2s).
 Week 9 (10/27-11/2) | Support vector machine and the kernel trick [Lecture 17 slides](https://drive.google.com/?authuser=0#folders/0B7IVstmtIvlHbnFKbDlmdFFyU2s). | Clustering methods: k-means, mean-shift [Lecture 18 slides](https://drive.google.com/?authuser=0#folders/0B7IVstmtIvlHbnFKbDlmdFFyU2s). **HW4 Due on 11/3**.
-Week 10 (11/3-11/9) | Mr job and map reduce. **HW5 Assigned**. | Visual story telling.
+Week 10 (11/3-11/9) | Mr job and map reduce [Lecture 19 slides](https://drive.google.com/?authuser=0#folders/0B7IVstmtIvlHbnFKbDlmdFFyU2s). **HW5 Assigned**. | Visual story telling.
 Week 11 (11/10-11/16) | Deep learning | Wrap up and outlook. **HW5 Due**.
 Week 12 (11/17-11/23) | Final project review | Final project review.
  Week 13 (11/24-11/30) | *No class*. Thanksgiving | *No class*. Thanksgiving 
