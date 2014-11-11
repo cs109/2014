@@ -27,6 +27,7 @@ Homework assignments are due on **Thursdays, 11:59 pm EST**. See the [schedule](
 #### HW4
 * [HW4 Assignment](http://nbviewer.ipython.org/github/cs109/2014/blob/master/homework/HW4.ipynb)
 * [HW4 Solutions](http://nbviewer.ipython.org/github/cs109/2014/blob/master/homework-solutions/HW4-solutions.ipynb)
+* [Competition Results](http://cs109.github.io/2014/pages/lectures/competition.html)
 
 #### HW5
 * [HW5 Assignment](http://nbviewer.ipython.org/github/cs109/2014/blob/master/homework/HW5.ipynb)
