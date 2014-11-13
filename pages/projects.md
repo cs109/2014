@@ -16,7 +16,7 @@ There are a few milestones for your final project. It is critical to note that *
 Date | Description 
 --- | --- 
 Tuesday, October 23 | Team Registration due
-Monday, November 17 | Project proposals due
+Monday, November 17 by **2pm (EST)** | Project proposals due
 Week of November 17-21 | Project review meeting with your TF
 Wednesday, December 10 | IPython Process book due
 Friday, December 12 | Project webpage and 2 minute screencast due
@@ -32,7 +32,7 @@ You start by filling out this [google form to define your teams and a tentative 
 
 #### Proposal
 
-Next, your team will submit this [project proposal form](https://docs.google.com/forms/d/1tMzR0WYrWJjb9o0MQMWYCbq_asuyeRD3z7ZaMLaWqzc/viewform?usp=send_form) by November 17, 2014. **Each team will only need to submit one form**. Based on your proposals we will assign a TF to your team who will guide you through the rest of the project. You will schedule a project review meeting with your TF during regular lecture times of the week marked in the schedule. Make sure all of your team members are present at the meeting. Online students can schedule a Skype meeting with their TF. 
+Next, your team will submit this [project proposal form](https://docs.google.com/forms/d/1tMzR0WYrWJjb9o0MQMWYCbq_asuyeRD3z7ZaMLaWqzc/viewform?usp=send_form) by November 17, 2014 by **2pm EST**. **Each team will only need to submit one form**. Based on your proposals we will assign a TF to your team who will guide you through the rest of the project. You will schedule a project review meeting with your TF during regular lecture times of the week marked in the schedule. Make sure all of your team members are present at the meeting. Online students can schedule a Skype meeting with their TF. 
 
 #### iPython Process Book
 
@@ -81,7 +81,7 @@ To submit your projects, create a folder named **lastname_firstinitial_project**
 
 As stated in the [syllabus](http://cs109.github.io/2014/pages/syllabus.html), the final project is graded in two parts: 
 
-1. **Final Project Part I** (worth 10% of total grade in CS 109).  This portion represents the Project Proposal which is due Nov 17. 
+1. **Final Project Part I** (worth 10% of total grade in CS 109).  This portion represents the Project Proposal which is due Nov 17 by **2pm (EST)**. 
 2. **Final Project Part II** (worth 25% of total grade in CS 109).  This portion will be split into two sub-portions: 
 * 80% of the Final Project Part II will be based on your iPython process book. This includes the quality of your data analysis and Python code, the complexity and level of difficulty of your project, completeness and overall functionality of your analysis.
 * 20% of the Final Project Part II will be based on your web site and screencast and the quality of their storytelling aspects. Your individual project score will also be determined by your peer evaluations. 
