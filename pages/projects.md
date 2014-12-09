@@ -87,10 +87,10 @@ The final project screen cast is due Friday December 12, 2014 by **11:59pm EST**
 #### <font color='red'> How to submit the iPython Process Book (due Dec 10) </font>
 
 1. Make the data used for the final project accessible somewhere online (google drive, downloadable link, etc).  
-2. Create a folder named **lastname_firstinitial_project** and place **ONLY** the iPython notebook in this folder.  You may split up the iPython notebook into multiple notebooks if everything does not fit into one notebook. You should submit **once** per team, but make sure the names of all group members are in the iPython notebook at the top.  Do not include the data in this folder as the data may be very large and iSites may not be able to accept it.  Inside the iPython notebook at the top, include instructions on where to access the data. Compress the folder (please use .zip compression) and submit it in the appropriate dropbox folder on iSites. *If we cannot access your work or links because these directions are not followed correctly, we will not grade your work*. 
+2. Create a folder named **lastname_firstinitial_project** and place **ONLY** the iPython notebook in this folder.  You may split up the iPython notebook into multiple notebooks if everything does not fit into one notebook. You should submit **one folder** per team, but make sure the names of all group members are inside the iPython notebook at the top.  Do not include the data in this folder as the data may be very large and iSites may not be able to accept it.  Inside the iPython notebook at the top, include instructions on where to access the data. Compress the folder (please use .zip compression) and submit it in the appropriate dropbox folder on iSites. *If we cannot access your work or links because these directions are not followed correctly, we will not grade your work*. 
 3. Email your TF instructions on where to access the data and how to make the notebook become executable.  Make sure the TF knows the name of the student who submitted the final project for the team.  
 
-#### <font color='red'> How to submit the peer assessment (due Dec 10) </font>
+#### <font color='red'> How to submit the Peer Assessment (due Dec 10) </font>
 
 Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/1aBtd1QvWUBQksHDepjY0Uiwt6XN6AS_dOuI12QE4L0Q/viewform). Your individual project score will take into account this self and peer assessment. 
 
