@@ -76,7 +76,7 @@ It is important to provide positive feedback to people who truly worked hard for
 * Respect for others' ideas - did they encourage others to contribute their ideas?
 * Flexibility - were they flexible when disagreements occurred?
 
-Your teammate's assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score. Please fill out this google form (link coming soon) for the evaluation.
+Your teammate's assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score. Please fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/1aBtd1QvWUBQksHDepjY0Uiwt6XN6AS_dOuI12QE4L0Q/viewform).
 
 ## Submission Instructions
 
