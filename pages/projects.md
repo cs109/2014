@@ -19,7 +19,8 @@ Tuesday, October 23 | Team Registration due
 Monday, November 17 by **2pm (EST)** | Project proposals due
 Week of November 17-21 | Project review meeting with your TF
 Wednesday, December 10 by **11:59pm (EST)** | IPython Process book due
-Friday, December 12 by **11:59pm (EST) ** | Project webpage and 2 minute screencast due
+Wednesday, December 10 by **11:59pm (EST)** | Peer assessment due
+Friday, December 12 by **11:59pm (EST)** | Project webpage and screencast due
 Tuesday, December 16 | Project presentations and best project prizes
 
 
@@ -53,6 +54,19 @@ As this will be your only chance to describe your project in detail make sure th
 
 We expect you to write high-quality and readable Python code in your process book. You should strive for doing things the right way and think about aspects such as reusability, error handling, etc. We also expect you to document your code.
 
+
+#### Peer Assessment
+
+It is important to provide positive feedback to people who truly worked hard for the good of the team and to also make suggestions to those you perceived not to be working as effectively on team tasks. We ask you to provide an honest assessment of the contributions of the members of your team, including yourself. The feedback you provide should reflect your judgment of each team member?s:
+
+* Preparation - were they prepared during team meetings?
+* Contribution - did they contribute productively to the team discussion and work?
+* Respect for others' ideas - did they encourage others to contribute their ideas?
+* Flexibility - were they flexible when disagreements occurred?
+
+Your teammate's assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score.  The peer assessment is due due Wednesday December 10, 2014 by **11:59pm EST**. For instructions on how to submit, please see **Submission Instructions** below.
+
+
 #### Project Website
 
 You will create a public website for your project using [Google Sites](https://sites.google.com/?pli=1) or Github Pages or any other web hosting service of your choice. The web site should effectively summarize the main results of your project and tell a story. Consider your audience (the site is public) and keep the level of discussion at the appropriate level. Your iPython process book and data should be linked to the web site as well, either using a zip file, [github](https://github.com), [bitbucket](https://bitbucket.org), or another code hosting site. Also embed your main visualizations and your screencast in your website.
@@ -67,28 +81,24 @@ We will strictly enforce the two minute time limit for the video, so please make
 
 The final project screen cast is due Friday December 12, 2014 by **11:59pm EST**.  For instructions on how to submit, please see **Submission Instructions** below.
 
-#### Peer Assessment
-
-It is important to provide positive feedback to people who truly worked hard for the good of the team and to also make suggestions to those you perceived not to be working as effectively on team tasks. We ask you to provide an honest assessment of the contributions of the members of your team, including yourself. The feedback you provide should reflect your judgment of each team member?s:
-
-* Preparation - were they prepared during team meetings?
-* Contribution - did they contribute productively to the team discussion and work?
-* Respect for others' ideas - did they encourage others to contribute their ideas?
-* Flexibility - were they flexible when disagreements occurred?
-
-Your teammate's assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score. Please fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/1aBtd1QvWUBQksHDepjY0Uiwt6XN6AS_dOuI12QE4L0Q/viewform).
 
 ## Submission Instructions
 
-#### <font color='red'> How to submit the iPython Process Book </font>
+#### <font color='red'> How to submit the iPython Process Book (due Dec 10) </font>
 
 1. Make the data used for the final project accessible somewhere online (google drive, downloadable link, etc).  
 2. Create a folder named **lastname_firstinitial_project** and place **ONLY** the iPython notebook in this folder.  You may split up the iPython notebook into multiple notebooks if everything does not fit into one notebook. You should submit **once** per team, but make sure the names of all group members are in the iPython notebook at the top.  Do not include the data in this folder as the data may be very large and iSites may not be able to accept it.  Inside the iPython notebook at the top, include instructions on where to access the data. Compress the folder (please use .zip compression) and submit it in the appropriate dropbox folder on iSites. *If we cannot access your work or links because these directions are not followed correctly, we will not grade your work*. 
 3. Email your TF instructions on where to access the data and how to make the notebook become executable.  Make sure the TF knows the name of the student who submitted the final project for the team.  
 
-#### <font color='red'> How to submit the Website and Screencast </font>
+#### <font color='red'> How to submit the peer assessment (due Dec 10) </font>
+
+Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/1aBtd1QvWUBQksHDepjY0Uiwt6XN6AS_dOuI12QE4L0Q/viewform). Your individual project score will take into account this self and peer assessment. 
+
+
+#### <font color='red'> How to submit the Website and Screencast (due Dec 12) </font>
 
 Fill out this [google form to submit the links to the website and screen cast](https://docs.google.com/forms/d/1zMkym-oNyoiqNoX_dFhZGJIbhRIYKx2Wd7KBU1wdoAc/viewform?usp=send_form).  *If we cannot access the website or screencast, we cannot grade it.*
+
 
 ## Grading
 
@@ -97,7 +107,7 @@ As stated in the [syllabus](http://cs109.github.io/2014/pages/syllabus.html), th
 
 1. **Final Project Part I** (worth 10% of total grade in CS 109).  This portion represents the Project Proposal which is due Nov 17 by **2pm (EST)**. 
 2. **Final Project Part II** (worth 25% of total grade in CS 109).  This portion will be split into two sub-portions: 
-* 80% of the Final Project Part II will be based on your iPython process book. This includes the quality of your data analysis and Python code, the complexity and level of difficulty of your project, completeness and overall functionality of your analysis. This sub-portion is due Dec 10 by **11:59pm (EST)**
+* 80% of the Final Project Part II will be based on your iPython process book. This includes the quality of your data analysis and Python code, the complexity and level of difficulty of your project, completeness and overall functionality of your analysis. This sub-portion (and peer assessment) is due Dec 10 by **11:59pm (EST)**
 * 20% of the Final Project Part II will be based on your web site and screencast and the quality of their storytelling aspects. This sub-portion is due Dec 12 by **11:59pm (EST)**
 
 Your individual project score will also be determined by your peer evaluations. 
