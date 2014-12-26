@@ -128,5 +128,5 @@ Congratulations to all of our winners and honorable mentions!
 * The Green Canvas ([Website](http://ahmedhosny.github.io/theGreenCanvas/), [Screencast](http://vimeo.com/114379373))
 * Predicting Citation Counts of arXiv Papers ([Website](https://sites.google.com/site/teamcitations/), [Screencast](http://youtu.be/bjAcHu8JRG0))
 * Improving University Energy Efficiency: Building Energy Demand Prediction ([Website](http://cs109-energy.github.io/), [Screencast](http://youtu.be/JiAQxctOntQ))
-* Predicting AirBnb Success (pending approval to link to website and screencast)
+* Predicting AirBnb Success ([Website](http://hamelsmu.github.io/AirbnbScrape/), [Screencast](https://www.youtube.com/watch?v=raGjUj5qArc))
 
